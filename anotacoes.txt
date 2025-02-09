@@ -1,0 +1,10 @@
+- Uma div para cada estrutura de exibição/display, exemplo:
+no container do trailer existe uma div class para todo o conjunto
+de elementos do trailer (botão, sinopse e trailer) e uma div class
+para cada elemento (botão, sinopse e trailer), alterando assim
+a estilização.
+
+O mesmo se aplicou pro container de cards dos atores;
+
+
+Medidas padrões para responsividade: 1024px, 320px, 768px
